@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+
+# Node
+node_modules/
+build/
+
+# OS / IDE files
+.DS_Store
+.env
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
